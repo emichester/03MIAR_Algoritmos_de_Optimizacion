@@ -1,0 +1,1 @@
+https://www.researchgate.net/publication/222562743_A_simple_and_effective_iterated_greedy_algorithm_for_the_permutation_flowshop_scheduling_problem
